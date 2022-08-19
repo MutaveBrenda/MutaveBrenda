@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MutaveBrenda
-- 👀 I’m interested in data systems and app development.
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in data systems and cyber security.
+- 🌱 I’m currently learning Practical Ethical Hacking and actively using TryHackMe
 - 💞️ I’m looking to collaborate on anything intersting and worth learning.
 - 📫 How to reach me @ mutave49@gmail.com
 
