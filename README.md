@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MutaveBrenda
-- 👀 I’m interested in data systems and cyber security.
-- 🌱 I’m currently learning Practical Ethical Hacking and actively using TryHackMe
+- 👀 I’m interested in API Integrations, DevOps and Syber security.
+- 🌱 I’m currently on an API Security journey- so excited!
 - 💞️ I’m looking to collaborate on anything intersting and worth learning.
 - 📫 How to reach me @ mutave49@gmail.com
 
