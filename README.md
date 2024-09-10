@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MutaveBrenda
-- 👀 I’m interested in API Integrations, DevOps and Syber security.
+- 👀 I’m interested in API Integrations, DevOps and Cyber security.
 - 🌱 I’m currently on an API Security journey- so excited!
 - 💞️ I’m looking to collaborate on anything intersting and worth learning.
 - 📫 How to reach me @ mutave49@gmail.com
